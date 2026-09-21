@@ -1,0 +1,14 @@
+{
+  "name": "solander-cinema-archive",
+  "version": "1.0.0",
+  "description": "Full-stack Movie Discovery, Diary, Watchlist and Tracking Platform",
+  "scripts": {
+    "start": "npm --prefix server start",
+    "build": "npm --prefix movie-platform run build",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix movie-platform run dev"
+  },
+  "keywords": ["movie", "tmdb", "letterboxd", "fullstack", "react", "express", "mongodb"],
+  "author": "",
+  "license": "ISC"
+}
